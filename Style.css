@@ -1,0 +1,47 @@
+html {
+    scroll-behavior: smooth;
+}
+
+a {
+    color: hsl(0, 78%, 11%);
+    padding: 20px;
+    text-decoration: none;
+    text-align: center;
+
+}
+
+a:hover {
+    background-color: rgb(65, 77, 63);
+    border-radius: 10px;
+    color: #83ca98;
+
+}
+
+h1 {
+    text-align: center;
+    color: #500303;
+    font-size: 55px;
+}
+
+p {
+    text-align: center;
+    font-size: 20px;
+
+}
+
+section {
+    margin-top: 15px;
+    margin-bottom: 5px;
+    text-align: center;
+    padding: 15px;
+    font-size: 20px;
+}
+
+ul {
+    list-style:none;
+    flex-direction: column;
+}
+#contato{
+    background-color: #661c1c93;
+    border-radius: 30px;
+}
